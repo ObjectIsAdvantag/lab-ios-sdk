@@ -1,0 +1,27 @@
+{
+    "labId": "collab-webex-ios-wrapper",
+    "title": "Embedding Video Calls into an iOS Application",
+    "slug": "Learn to add Video Calls to an existing iOS application",
+    "time": 20,
+    "byod": true,
+    "files": [
+      {
+        "title": "Introduction",
+        "file": "1.md"
+      }
+    ],
+    "tags": [
+      {
+        "title": "Webex Teams"
+      }
+    ],
+    "related": [],
+    "authors": [
+      {
+        "name": "Johnathan Field",
+        "email": "jonfiel@cisco.com"
+      }
+    ],
+    "reviewers": [],
+    "active": true
+  }
