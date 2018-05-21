@@ -1,5 +1,5 @@
 {
-    "labId": "collab-webex-ios-wrapper",
+    "labId": "collab-webex-ios-starter",
     "title": "Embedding Video Calls into an iOS Application",
     "slug": "Learn to add Video Calls to an existing iOS application",
     "time": 20,
@@ -12,7 +12,7 @@
     ],
     "tags": [
       {
-        "title": "Webex Teams"
+        "title": "Collaboration"
       }
     ],
     "related": [],
